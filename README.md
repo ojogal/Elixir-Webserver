@@ -16,4 +16,4 @@ mix deps.get
 mix phx.server
 ```
 
-open the url: http://localhost:4000
+open the url: http://localhost:4001
